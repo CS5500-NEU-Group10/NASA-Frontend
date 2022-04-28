@@ -16,8 +16,8 @@
 #user-form {
   background: rgba(200, 99, 255, 0.373);
   padding: 3em;
-  height: 75vh;
-  width: 50%;
+  height: 30em;
+  width: 500px;
   border-radius: 20px;
   border-left: 1px solid rgba(233, 233, 233, 0.685);
   border-top: 1px solid rgba(255, 255, 255, 0.3);
